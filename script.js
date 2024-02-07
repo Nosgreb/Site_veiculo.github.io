@@ -42,4 +42,5 @@ btnCarroExit.addEventListener("click", (event)=>{
 })
 btnMotoExit.addEventListener("click", (event)=>{
     location.reload();
+    document.body.style.backgroundColor = "#030140";
 })
